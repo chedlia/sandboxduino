@@ -8,18 +8,6 @@ This page describes briefly experiments and code samples.
 = Details =
 
 ==BasicDisplay==
-Setup:
-*Arduino UNO
-*SainSmart 1602 LCD Keypad Shield
-*USB power supply.
-
-===Notes:===
-  * make sure to install keypad library in(MacOS only): 
-  /Applications/Arduino.app/Contents/Resources/Java/libraries/
-
-  * I had to change few things is those libraries to get them to work. Added missing includes, and replaced old includes with constants(wiring file). keypad library can be found in ./libraries/keypad directory
-
-
 ==BlinkLed==
 Name says it all.  Delay based blink code.
  Setup:
@@ -44,6 +32,4 @@ Stepper motor example.
   * connect 12V power supply to motor shield
   * connect motor to X motor shield slot(X01A - RED, X01B GREEN, X02A YELLOW, X02B BLUE)
   * MAKE SURE THAT MOTOR CONNECTION IS TIGHT, DO NOT DISCONNECT MOTOR WHILE SHIELD IS POWERED, it will damage the shield.
-
-
 
