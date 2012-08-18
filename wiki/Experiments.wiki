@@ -1,11 +1,4 @@
-#summary One-sentence summary of this page.
-
-= Introduction =
-
 This page contains links to experiments pages.
-
-
-= Details =
 
 ==BasicDisplay==
 ==BlinkLed==
