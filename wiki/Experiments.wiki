@@ -2,7 +2,7 @@
 
 = Introduction =
 
-This page describes briefly experiments and code samples.
+This page contains links to experiments pages.
 
 
 = Details =
