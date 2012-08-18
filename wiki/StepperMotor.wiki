@@ -1,6 +1,6 @@
 Stepper motor example.
  Setup:
-  *Arduino UNO
+  * Arduino UNO
   * Cana Kit stepper motor(MERCURY MOTOR SM-42BTG011-25) -available on amazon.
   * Dual stepper motor shield(SHD037)
   *12V DC power supply(12V drill battery)
