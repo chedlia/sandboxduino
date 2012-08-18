@@ -1,0 +1,10 @@
+Setup:
+  * Arduino UNO R3
+  * HC-SR04 ultrasonic module
+  * breadboard
+
+
+== Notes ===
+
+  * really easy project, this version writes to Arduino Serial.
+  * make sure to connect VCC sensor pin with Arduinos 5V pin.
