@@ -9,27 +9,5 @@ This page describes briefly experiments and code samples.
 
 ==BasicDisplay==
 ==BlinkLed==
-Name says it all.  Delay based blink code.
- Setup:
-  *Arduino UNO
-  *1 led + 220OHM resistor(pin 9)
-
 ==FadeLed==
-Led fading using delays and PWM output. Code is simple, one loop that changes output power on PWM.
- Setup:
-  *Arduino UNO
-  *1 led + 220OHM resistor(pin 9)
-
 ==StepperMotor==
-Stepper motor example.
- Setup:
-  *Arduino UNO
-  * Cana Kit stepper motor(MERCURY MOTOR SM-42BTG011-25) -available on amazon.
-  * Dual stepper motor shield(SHD037)
-  *12V DC power supply(12V drill battery)
-
-===Notes:===
-  * connect 12V power supply to motor shield
-  * connect motor to X motor shield slot(X01A - RED, X01B GREEN, X02A YELLOW, X02B BLUE)
-  * MAKE SURE THAT MOTOR CONNECTION IS TIGHT, DO NOT DISCONNECT MOTOR WHILE SHIELD IS POWERED, it will damage the shield.
-
