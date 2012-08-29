@@ -4,4 +4,4 @@ Here are the links to experiments pages.
 ==BasicDisplay==
 ==StepperMotor==
 ==[Ultrasonic]==
-==[OptointerrupterHack] Optointerrupter hack==
+==[OptointerrupterHack Optointerrupter hack]==
