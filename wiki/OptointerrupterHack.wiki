@@ -23,3 +23,7 @@ Optocoupler completely separates two circuits, helps you to protect expensive pa
 There's one small difference between optointerrupters and optocoupler: optointerrupter uses the same VCC for both LED and photoresistor - and this is what needs to be hacked:
 
 http://sandboxduino.googlecode.com/svn/trunk/OptoInterrupterHack/hacked-opto-interrupter.png
+
+Optocoupler in action:
+
+<wiki:video url="http://www.youtube.com/watch?v=KQPvNI3Yx8A"/>
