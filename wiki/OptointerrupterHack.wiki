@@ -20,4 +20,6 @@ Those two parts are basically made out of two components:
 
 Optocoupler completely separates two circuits, helps you to protect expensive parts from the rest of the circuit. I needed one to separate my camera from Arduino.
 
-There's one small difference between optointerrupters and optocoupler: optointerrupter uses the same VCC for both LED and photoresistor - and this is what needs to be hacked.
+There's one small difference between optointerrupters and optocoupler: optointerrupter uses the same VCC for both LED and photoresistor - and this is what needs to be hacked:
+
+http://sandboxduino.googlecode.com/svn/trunk/OptoInterrupterHack/hacked-opto-interrupter.png
