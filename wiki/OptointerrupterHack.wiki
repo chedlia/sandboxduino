@@ -4,12 +4,13 @@
 
 I found several optointerrupters in old printers and I needed optocoupler. I decided to hack a optointerrupter and make it into optocoupler.
 
-Setup:
-- Optointerrupter from old printer
-- 220OHM resistors
-- jumper connectors
-- two VCC sources
-- LED
+==Setup:==
+
+* Optointerrupter from old printer
+* 220OHM resistors
+* jumper connectors
+* two VCC sources
+* LED
 
 = Details =
 
