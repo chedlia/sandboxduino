@@ -6,11 +6,11 @@ I found several optointerrupters in old printers and I needed optocoupler. I dec
 
 ==Setup:==
 
-* Optointerrupter from old printer
-* 220OHM resistors
-* jumper connectors
-* two VCC sources
-* LED
+ *Optointerrupter from old printer
+ *220OHM resistors
+ *jumper connectors
+ *two VCC sources
+ *LED
 
 = Details =
 
