@@ -11,6 +11,7 @@ I found several optointerrupters in old printers and I needed optocoupler. I dec
  * jumper connectors
  * two VCC sources
  * LED
+ * dremmel
 
 = Details =
 
