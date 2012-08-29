@@ -2,7 +2,7 @@
 
 = Introduction =
 
-I found several optointerrupters in old printers and I needed optocoupler. I decided to hack some optointerrupters.
+I found several optointerrupters in old printers and I needed optocoupler. I decided to hack a optointerrupter and make it into optocoupler.
 
 
 
