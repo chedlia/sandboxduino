@@ -36,7 +36,7 @@ http://sandboxduino.googlecode.com/svn/trunk/OptoInterrupterHack/hacked-opto-int
 
 ==Optocoupler in action:==
 
-<wiki:video url="http://www.youtube.com/watch?v=KQPvNI3Yx8A"/>
+<wiki:video url="http://www.youtube.com/watch?v=fFl5DkLFVr0"/>
 
 ==Notes==
 Make sure to use 220 OHM resistors for infrared LED - otherwise it will be damaged.
