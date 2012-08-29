@@ -2,6 +2,6 @@ Here are the links to experiments pages.
 ==BlinkLed==
 ==FadeLed==
 ==BasicDisplay==
-==StepperMotor==
+==[StepperMotorSainSmart stepper motor with SainSmart shield] ==
 ==[Ultrasonic]==
 ==[OptointerrupterHack Optointerrupter hack]==
