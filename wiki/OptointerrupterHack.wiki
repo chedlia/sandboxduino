@@ -4,8 +4,12 @@
 
 I found several optointerrupters in old printers and I needed optocoupler. I decided to hack a optointerrupter and make it into optocoupler.
 
-
-
+Setup:
+- Optointerrupter from old printer
+- 220OHM resistors
+- jumper connectors
+- two VCC sources
+- LED
 
 = Details =
 
@@ -22,12 +26,15 @@ Optocoupler completely separates two circuits, helps you to protect expensive pa
 
 There's one small difference between optointerrupters and optocoupler: optointerrupter uses the same VCC for both LED and photoresistor and this is what needs to be hacked:
 
-h1. Your goal:
+==Your goal:==
 http://sandboxduino.googlecode.com/svn/trunk/OptoInterrupterHack/circuit.png
 
-h1. Hack:
+==Hack:==
 http://sandboxduino.googlecode.com/svn/trunk/OptoInterrupterHack/hacked-opto-interrupter.png
 
-h1. Optocoupler in action:
+==Optocoupler in action:==
 
 <wiki:video url="http://www.youtube.com/watch?v=KQPvNI3Yx8A"/>
+
+==Notes==
+Make sure to use 220 OHM resistors for infrared LED - otherwise it will be damaged.
