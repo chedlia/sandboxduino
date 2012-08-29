@@ -1,0 +1,19 @@
+# Optointerrupter made into optocoupler.
+
+= Introduction =
+
+I found several optointerrupters in old printers and I needed optocoupler. I decided to hack some optointerrupters.
+
+
+
+
+= Details =
+
+Those two parts are basically made out of two components:
+- LED
+- photoresistor
+
+Optocoupler completely separates two circuits, helps you to protect expensive parts from the rest of the circuit. I needed one to separate my camera from Arduino.
+
+There's one small difference between optointerrupters and optocoupler: optointerrupter uses the same VCC for both LED and photoresistor - and this is what needs to be hacked.
+
