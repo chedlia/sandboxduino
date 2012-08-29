@@ -3,6 +3,8 @@ Setup:
   * HC-SR04 ultrasonic module
   * breadboard
 
+Module:
+http://sandboxduino.googlecode.com/svn/trunk/Ultrasonic/ultrasonic.png
 
 == Notes ===
 
