@@ -1,0 +1,28 @@
+#summary Building self driving small robot
+
+= Setup =
+ * Arduino Uno R3
+ * SainSmart L293D Motor Drive Shield
+ * TowerPro Micro Servo
+ * HC-SR04 ultrasonic module
+ * Tamiya 70108 Tracked Vehicle Chassis
+ * Tamiya Double Gearbox L/R Independ 4-speed TAM70168
+ * 2x 9V battery
+ * jumper wires(male/female + female/female)
+ * on/off switch(any type with six legs)
+ * Tamiya Universal Plate TAM70098
+ * plastic scraps (cd boxes, printer plastic parts etc)
+ * small prototype board
+
+
+= Goal =
+
+The goal is to create self driving robot that will be able to avoid obstacles.
+ 
+Work in progress:
+ * arduino with motor shield
+ * attached two DC motors
+ * mounted on/pff switch on prototype board
+ * can drive only back/forward
+
+http://sandboxduino.googlecode.com/svn/trunk/SelfDrivingRobot/robot1.png
