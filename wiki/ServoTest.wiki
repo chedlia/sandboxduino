@@ -1,0 +1,19 @@
+#summary One-sentence summary of this page.
+
+= Introduction =
+
+Basic 5V servo test
+
+Setup:
+TowerPro micro servo,
+Arduino Uno R3
+
+
+= Details =
+
+* Connect servo to 5V pin(red servo cable)
+* Connect servo to GND pin(brown servo cable)
+* Connect third cable to PWM(~) adruino output
+
+==Servo in action==
+http://www.youtube.com/watch?v=-egsOjic-Xw
