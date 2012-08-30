@@ -24,5 +24,6 @@ Work in progress:
  * attached two DC motors
  * mounted on/pff switch on prototype board
  * can drive only back/forward
+ * everything mounted with rubber bands - holds strong! :P
 
 http://sandboxduino.googlecode.com/svn/trunk/SelfDrivingRobot/robot1.png
