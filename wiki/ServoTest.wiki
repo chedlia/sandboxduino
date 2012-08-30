@@ -16,4 +16,4 @@ Arduino Uno R3
 * Connect third cable to PWM(~) adruino output
 
 ==Servo in action==
-http://www.youtube.com/watch?v=-egsOjic-Xw
+<wiki:video url="http://www.youtube.com/watch?v=-egsOjic-Xw"/>
