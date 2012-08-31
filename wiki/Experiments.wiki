@@ -7,8 +7,7 @@ Here are the links to experiments pages.
 ==[Ultrasonic]==
 
 
-=A bit more advanced=
+=Just a bit more advanced=
 ==[StepperMotorSainSmart stepper motor with SainSmart shield] ==
 ==[OptointerrupterHack Optointerrupter hack]==
 ==[SelfDrivingRobot]==
-
