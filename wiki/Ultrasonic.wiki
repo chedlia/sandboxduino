@@ -4,7 +4,12 @@ Setup:
   * breadboard
 
 Module:
+
 http://sandboxduino.googlecode.com/svn/trunk/Ultrasonic/ultrasonic.png
+
+Connected module:
+
+https://sandboxduino.googlecode.com/svn/trunk/Ultrasonic/ultrasonic-connected.png
 
 == Notes ===
 
