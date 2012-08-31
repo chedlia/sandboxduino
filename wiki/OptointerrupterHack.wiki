@@ -12,7 +12,7 @@ I found several optointerrupters in old printers and I needed optocoupler. I dec
  * Optointerrupter from old printer
  * 220OHM resistors
  * jumper connectors
- * two VCC sources
+ * two 3V VCC sources
  * LED
  * dremmel
 
