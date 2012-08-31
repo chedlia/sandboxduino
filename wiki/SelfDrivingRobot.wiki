@@ -28,6 +28,10 @@ The goal is to create self driving robot that will be able to avoid obstacles.
 
 http://sandboxduino.googlecode.com/svn/trunk/SelfDrivingRobot/robot1.png
 
+== It's alive muahahahhahha!==
+<wiki:video url=http://www.youtube.com/watch?v=PclGzQkhY3U />
+
+
 ==Stage 2:==
  * added ultrasound sensor and servo (not connected yet)
 
