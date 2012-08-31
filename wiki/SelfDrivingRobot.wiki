@@ -36,7 +36,7 @@ http://sandboxduino.googlecode.com/svn/trunk/SelfDrivingRobot/chasis3.png
 
 http://sandboxduino.googlecode.com/svn/trunk/SelfDrivingRobot/robot1.png
 
-== It's alive muahahahhahha!==
+== It's alive - muahahahhahha!==
 <wiki:video url=http://www.youtube.com/watch?v=PclGzQkhY3U />
 
 
