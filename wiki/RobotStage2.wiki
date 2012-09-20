@@ -21,3 +21,6 @@ http://sandboxduino.googlecode.com/svn/trunk/SelfDrivingRobot/Stage2/04%20breadb
 I had to solder every two pins(they used to be connected to the cable). Here's the breadboard in action:
 
 http://sandboxduino.googlecode.com/svn/trunk/SelfDrivingRobot/Stage2/05%20breadboard.png
+
+ * Robot with the breadboard and sensor connected:
+http://sandboxduino.googlecode.com/svn/trunk/SelfDrivingRobot/Stage2/06%20robot.png
