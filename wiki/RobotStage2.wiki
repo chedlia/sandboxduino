@@ -24,3 +24,5 @@ http://sandboxduino.googlecode.com/svn/trunk/SelfDrivingRobot/Stage2/05%20breadb
 
  * Robot with the breadboard and sensor connected:
 http://sandboxduino.googlecode.com/svn/trunk/SelfDrivingRobot/Stage2/06%20robot.png
+
+* Unfortunately standard 9v cell is not enough for two motors and servo, so I had to use 9.6V battery pack to drive a robot. Arduino has it's own 9v battery.
