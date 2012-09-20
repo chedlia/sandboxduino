@@ -4,7 +4,7 @@ http://sandboxduino.googlecode.com/svn/trunk/SelfDrivingRobot/servo.png
 
 http://sandboxduino.googlecode.com/svn/trunk/SelfDrivingRobot/robot2.png
 
- * I nad to solder some new pins to motor shield in order to be able to connect ultrasound sensor
+ * I had to solder some new pins to motor shield in order to be able to connect ultrasound sensor
 
 http://sandboxduino.googlecode.com/svn/trunk/SelfDrivingRobot/Stage2/01%20pins.png
 
