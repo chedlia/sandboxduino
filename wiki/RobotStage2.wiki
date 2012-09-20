@@ -3,3 +3,21 @@
 http://sandboxduino.googlecode.com/svn/trunk/SelfDrivingRobot/servo.png
 
 http://sandboxduino.googlecode.com/svn/trunk/SelfDrivingRobot/robot2.png
+
+ * I nad to solder some new pins to motor shield in order to be able to connect ultrasound sensor
+
+http://sandboxduino.googlecode.com/svn/trunk/SelfDrivingRobot/Stage2/01%20pins.png
+
+ * first rows of pins:
+http://sandboxduino.googlecode.com/svn/trunk/SelfDrivingRobot/Stage2/02%20pins.png
+
+ * all pins:
+http://sandboxduino.googlecode.com/svn/trunk/SelfDrivingRobot/Stage2/03%20pins.png
+
+ * I had no female/female jumper cable and I was unable to connect ultrasound sensor directly to shield. That's why I took old 40 pins computer cable, dismounted it, and created smallest breadboard in the world:
+
+http://sandboxduino.googlecode.com/svn/trunk/SelfDrivingRobot/Stage2/04%20breadboard.png
+
+I had to solder every two pins(they used to be connected to the cable). Here's the breadboard in action:
+
+http://sandboxduino.googlecode.com/svn/trunk/SelfDrivingRobot/Stage2/05%20breadboard.png
