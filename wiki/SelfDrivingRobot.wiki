@@ -19,7 +19,7 @@
 
 The goal is to create self driving robot that will be able to avoid obstacles.
  
-== Stage 1: == 
+== [Robot Stage 1]: == 
  * arduino with motor shield
  * attached two DC motors
  * mounted on/off switch on prototype board
