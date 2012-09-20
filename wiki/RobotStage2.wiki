@@ -8,7 +8,7 @@ http://sandboxduino.googlecode.com/svn/trunk/SelfDrivingRobot/robot2.png
 
 http://sandboxduino.googlecode.com/svn/trunk/SelfDrivingRobot/Stage2/01%20pins.png
 
- * first rows of pins:
+ * first row of pins:
 http://sandboxduino.googlecode.com/svn/trunk/SelfDrivingRobot/Stage2/02%20pins.png
 
  * all pins:
