@@ -22,9 +22,6 @@ The goal is to create self driving robot that will be able to avoid obstacles.
 == [RobotStage1 Robot Stage 1]: == 
 http://sandboxduino.googlecode.com/svn/trunk/SelfDrivingRobot/robot1.png
 
-==Stage 2:==
- * added ultrasound sensor and servo (not connected yet)
-
-http://sandboxduino.googlecode.com/svn/trunk/SelfDrivingRobot/servo.png
+==[RobotStage2 Stage 2]:==
 
 http://sandboxduino.googlecode.com/svn/trunk/SelfDrivingRobot/robot2.png
