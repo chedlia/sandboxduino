@@ -19,9 +19,9 @@
 
 The goal is to create self driving robot that will be able to avoid obstacles.
  
-== [RobotStage1 Robot Stage 1]: == 
+== Robot Stage 1 ([RobotStage1 read more>>]): == 
 http://sandboxduino.googlecode.com/svn/trunk/SelfDrivingRobot/robot1.png
 
-==[RobotStage2 Stage 2]:==
+==Robot Stage 2([RobotStage2 read more>>]):==
 
 http://sandboxduino.googlecode.com/svn/trunk/SelfDrivingRobot/robot2.png
