@@ -1,0 +1,5 @@
+ * added ultrasound sensor and servo (not connected yet)
+
+http://sandboxduino.googlecode.com/svn/trunk/SelfDrivingRobot/servo.png
+
+http://sandboxduino.googlecode.com/svn/trunk/SelfDrivingRobot/robot2.png
