@@ -1,0 +1,11 @@
+# self driving robot built based on toy saved from garage sale.
+
+= Setup =
+ * Arduino Uno R3
+ * Parents Go Bot
+ * 9V battery to power arduino
+ * HC-SR04 ultrasonic module
+ * jumper wires(male/female + female/female)
+
+= Goal =
+I got this toy from my friend. He found it on a garage sale, so it was like 2$. Original toy comes with IR remote, but this one was missing it. Since it didn't do anything without a pilot I decided to rebuild it and give it some personality.
