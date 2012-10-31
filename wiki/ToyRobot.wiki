@@ -72,3 +72,7 @@ Attaching all to arduino:
 http://sandboxduino.googlecode.com/svn/trunk/ToyRobot/toy-robot/007.png
 http://sandboxduino.googlecode.com/svn/trunk/ToyRobot/toy-robot/008.png
 http://sandboxduino.googlecode.com/svn/trunk/ToyRobot/toy-robot/009.png
+
+This is how it looks like:
+
+http://sandboxduino.googlecode.com/svn/trunk/ToyRobot/toy-robot/010.png
