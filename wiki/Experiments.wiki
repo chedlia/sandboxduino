@@ -11,3 +11,4 @@ Here are the links to experiments pages.
 ==[StepperMotorSainSmart stepper motor with SainSmart shield] ==
 ==[OptointerrupterHack Optointerrupter hack]==
 ==[SelfDrivingRobot]==
+==[ToyRobot]==
