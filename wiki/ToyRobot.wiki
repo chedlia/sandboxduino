@@ -39,5 +39,9 @@ Red cable is used to supply power to motors.
 
 http://sandboxduino.googlecode.com/svn/trunk/ToyRobot/toy-robot/003.png
 
+All you need from black cable is those three cables:
+BLACK: GND
+ORANGE: 5V
+RED : 9V
 
-
+http://sandboxduino.googlecode.com/svn/trunk/ToyRobot/toy-robot/004.png
