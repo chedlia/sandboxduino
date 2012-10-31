@@ -31,3 +31,13 @@ http://sandboxduino.googlecode.com/svn/trunk/ToyRobot/toy-robot/001.png
 Front:
 
 http://sandboxduino.googlecode.com/svn/trunk/ToyRobot/toy-robot/002.png
+
+I have taken all the plastic off, disconnected LEDs and IR receiver.
+It turned out that black cable going from body to head, contains 5V, 9V, ground cables, and more cables that are connected to switches. Switches are used as sensors detecting tower rotation. FE when the tower(head) turns right it reaches switch that disconnects the motor etc.
+
+Red cable is used to supply power to motors.
+
+http://sandboxduino.googlecode.com/svn/trunk/ToyRobot/toy-robot/003.png
+
+
+
