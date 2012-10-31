@@ -84,3 +84,5 @@ Robot works fine, doesn't consume too much power, doesn't overheat. Arduino seem
 
 Few notes:
  * you might remove processor and play with other processor output(put 5v on them to identify all the transistor switches. This is one thing I would do if I was about to do it again. If you manage to get some more information, please let me know. I will gladly post it.
+
+<wiki:video url=http://www.youtube.com/watch?v=1tBEmbXnFmM />
