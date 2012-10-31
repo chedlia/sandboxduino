@@ -65,4 +65,10 @@ The next thing was to attach ultra sound sensor:
 
 http://sandboxduino.googlecode.com/svn/trunk/ToyRobot/toy-robot/006.png
 
+I also sanded a piece of plastic that moved the head up and down, I didn't like it. Eyes are still opening and closing.
 
+Attaching all to arduino:
+
+http://sandboxduino.googlecode.com/svn/trunk/ToyRobot/toy-robot/007.png
+http://sandboxduino.googlecode.com/svn/trunk/ToyRobot/toy-robot/008.png
+http://sandboxduino.googlecode.com/svn/trunk/ToyRobot/toy-robot/009.png
