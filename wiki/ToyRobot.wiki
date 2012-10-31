@@ -51,4 +51,12 @@ http://sandboxduino.googlecode.com/svn/trunk/ToyRobot/toy-robot/004.png
 Then, I removed processor and sound processor from the board:
 http://sandboxduino.googlecode.com/svn/trunk/ToyRobot/toy-robot/005.png
 
+This is how I connected arduino to H bridges 
+http://sandboxduino.googlecode.com/svn/trunk/ToyRobot/toy-robot/005a.png
+
+Cables have been soldered to a board and will be connected to arduino output pins. High signal enables forward or backward for each motor. 
+I've checked that you can actually use 5V arduino output to turn on motors by connecting 5V to each of those points. Just by checking every point I figured out what is what. 
+
+Motor 1 and motor 2 are responsible for moving the toy. Motor 3 is responsible for 
+
 
