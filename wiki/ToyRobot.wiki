@@ -44,4 +44,11 @@ BLACK: GND
 ORANGE: 5V
 RED : 9V
 
+I cut away the rest of the cables from the black cable. You could potentially try to use switches to determine tower position, but I decided not to to it, just to simplify things a bit.
+
 http://sandboxduino.googlecode.com/svn/trunk/ToyRobot/toy-robot/004.png
+
+Then, I removed processor and sound processor from the board:
+http://sandboxduino.googlecode.com/svn/trunk/ToyRobot/toy-robot/005.png
+
+
