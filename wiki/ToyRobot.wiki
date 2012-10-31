@@ -2,7 +2,7 @@
 
 = Setup =
  * Arduino Uno R3
- * Parents Go Bot
+ * Parents Go Bot (available on amazon)
  * 9V battery to power arduino
  * HC-SR04 ultrasonic module
  * jumper wires(male/female + female/female)
@@ -14,7 +14,7 @@ Original toy:
 
 http://sandboxduino.googlecode.com/svn/trunk/ToyRobot/toy-robot/000.png
 
-I think this toy is worth buying new just to make into self driving robot. It's 13$ on amazon, so fairly cheap and this is what you get in package:
+I think this toy is worth buying new just to make it into self driving robot. It's 13$ on amazon, so fairly cheap and this is what you get in package:
  * two motors with gears(you would normally probably paid 10$ for it)
  * even more motors, one that turns the head, one that turns eyes, one that opens/closes eyes.
  * H bridges - yup, at least 4 full blown H bridges - equivalent of 20$ arduino motor shield.
