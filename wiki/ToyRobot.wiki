@@ -81,3 +81,6 @@ This is how it looks like:
 http://sandboxduino.googlecode.com/svn/trunk/ToyRobot/toy-robot/010.png
 
 Robot works fine, doesn't consume too much power, doesn't overheat. Arduino seems to be safe, nothing has happened to it so far, I did try it several times, everything works as expected. 
+
+Few notes:
+ * you might remove processor and play with other processor output(put 5v on them to identify all the transistor switches. This is one thing I would do if I was about to do it again. If you manage to get some more information, please let me know. I will gladly post it.
