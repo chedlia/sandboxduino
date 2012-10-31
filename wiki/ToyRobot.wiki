@@ -57,6 +57,12 @@ http://sandboxduino.googlecode.com/svn/trunk/ToyRobot/toy-robot/005a.png
 Cables have been soldered to a board and will be connected to arduino output pins. High signal enables forward or backward for each motor. 
 I've checked that you can actually use 5V arduino output to turn on motors by connecting 5V to each of those points. Just by checking every point I figured out what is what. 
 
-Motor 1 and motor 2 are responsible for moving the toy. Motor 3 is responsible for 
+Motor 1 and motor 2 are responsible for moving the toy. Motor 3 is responsible for head turns.
+
+I have decided to remove two motors. I removed the one that was responsible for head turning, and the one that was responsible for moving eyes left and right. I didn't want to turn the head to make things simpler. And I think the eyes motor h bridge was broken. I was unable to figure out wheat was wrong there, so I just skipped it.
+
+The next thing was to attach ultra sound sensor:
+
+http://sandboxduino.googlecode.com/svn/trunk/ToyRobot/toy-robot/006.png
 
 
