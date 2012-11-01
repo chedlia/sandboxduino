@@ -62,7 +62,7 @@ I've checked that you can actually use 5V arduino output to turn on motors by co
 
 Motor 1 and motor 2 are responsible for moving the toy. Motor 3 is responsible for head turns.
 
-I have decided to remove two motors. I removed the one that was responsible for head turning, and the one that was responsible for moving eyes left and right. I didn't want to turn the head to make things simpler. And I think the eyes motor h bridge was broken. I was unable to figure out wheat was wrong there, so I just skipped it.
+I have decided to remove two motors. I removed the one that was responsible for head turning, and the one that was responsible for moving eyes left and right. I didn't want to turn the head to make things simpler. And I think the eyes motor's h bridge was broken. I was unable to figure out what was wrong there, so I just skipped it.
 
 The next thing was to attach ultra sound sensor:
 
