@@ -36,18 +36,18 @@ Front:
 http://sandboxduino.googlecode.com/svn/trunk/ToyRobot/toy-robot/002.png
 
 I have taken all the plastic off, disconnected LEDs and IR receiver.
-It turned out that black cable going from body to head, contains 5V, 9V, ground cables, and more cables that are connected to switches. Switches are used as sensors detecting tower rotation. FE when the tower(head) turns right it reaches switch that disconnects the motor etc.
+It turned out that the black cable going from body to head, contains 5V, 9V, ground wires, and more wires that are connected to switches. Switches are used as sensors detecting tower rotation. FE when the tower(head) turns right it reaches switch that disconnects the motor etc.
 
 Red cable is used to supply power to motors.
 
 http://sandboxduino.googlecode.com/svn/trunk/ToyRobot/toy-robot/003.png
 
-All you need from black cable is those three cables:
+All you need from black cable is those three wires:
 BLACK: GND
 ORANGE: 5V
 RED : 9V
 
-I cut away the rest of the cables from the black cable. You could potentially try to use switches to determine tower position, but I decided not to to it, just to simplify things a bit.
+I cut away the rest of the wires from the black cable. You could potentially try to use switches to determine tower position, but I decided not to to it, just to simplify things a bit.
 
 http://sandboxduino.googlecode.com/svn/trunk/ToyRobot/toy-robot/004.png
 
@@ -57,20 +57,20 @@ http://sandboxduino.googlecode.com/svn/trunk/ToyRobot/toy-robot/005.png
 This is how I connected arduino to H bridges 
 http://sandboxduino.googlecode.com/svn/trunk/ToyRobot/toy-robot/005a.png
 
-Cables have been soldered to a board and will be connected to arduino output pins. High signal enables forward or backward for each motor. 
-I've checked that you can actually use 5V arduino output to turn on motors by connecting 5V to each of those points. Just by checking every point I figured out what is what. 
+WIres have been soldered to a board and they will be connected to arduino output pins. High signal enables forward or backward for each motor. 
+I've checked that you can actually use 5V arduino output to turn on motors by connecting 5V wire to each of those points. Just by checking every point I figured out what is what. 
 
-Motor 1 and motor 2 are responsible for moving the toy. Motor 3 is responsible for head turns.
+Motor 1 and motor 2 are responsible for moving the toy. Motor 3 is responsible for turning the head.
 
-I have decided to remove two motors. I removed the one that was responsible for head turning, and the one that was responsible for moving eyes left and right. I didn't want to turn the head to make things simpler. And I think the eyes motor's h bridge was broken. I was unable to figure out what was wrong there, so I just skipped it.
+I have decided to remove two motors. I have removed the one that was responsible for turning the head, and the one that was responsible for moving eyes left and right. I didn't want to turn the head to make things simpler. And I think the eyes motor's h bridge was broken. I was unable to figure out what was wrong there, so I just skipped it.
 
 The next thing was to attach ultra sound sensor:
 
 http://sandboxduino.googlecode.com/svn/trunk/ToyRobot/toy-robot/006.png
 
-I also sanded a piece of plastic that moved the head up and down, I didn't like it. Eyes are still opening and closing.
+I also sanded a piece of plastic that moved the head up and down, I didn't like it. It still opens and closes the eyes.
 
-Attaching all to arduino:
+Attaching all the wires to arduino:
 
 http://sandboxduino.googlecode.com/svn/trunk/ToyRobot/toy-robot/007.png
 http://sandboxduino.googlecode.com/svn/trunk/ToyRobot/toy-robot/008.png
@@ -83,6 +83,9 @@ http://sandboxduino.googlecode.com/svn/trunk/ToyRobot/toy-robot/010.png
 Robot works fine, doesn't consume too much power, doesn't overheat. Arduino seems to be safe, nothing has happened to it so far, I did try it several times, everything works as expected. 
 
 Few notes:
+ * MAKE SURE TO CONNECT ARDUINO GND WITH ROBOT GND. That's really important.
+ * make sure to provide separate 9V power supply to Arduino. You could try to use toy batteries, but it might result in strange behaviors. As motor starts and consumes energy it lowers the battery voltage, and may even reset Arduino. It'a a good idea to have two power supplies.
  * you might remove processor and play with other processor output(put 5v on them to identify all the transistor switches. This is one thing I would do if I was about to do it again. If you manage to get some more information, please let me know. I will gladly post it.
+
 
 <wiki:video url=http://www.youtube.com/watch?v=1tBEmbXnFmM />
